@@ -7,12 +7,11 @@ Ghunt (https://github.com/mxrch/GHunt or https://osint.rocks/)
 <br>Holehe (https://github.com/megadose/holehe or https://osint.rocks/)
 <br>HudsonRock InfoStealer Intelligence (https://osint.rocks/)
 <br>Epieos (https://epieos.com/)
-<br>Epieos (https://epieos.com/)
 <br>Emailrep.io (https://emailrep.io/)
 <br>HaveIBeenPwned (https://haveibeenpwned.com/)
 <br>Email finder (https://hunter.io/email-finder)
+<br>Email verifier (https://hunter.io/email-verifier)
 <br>Email permutator (https://mailmeteor.com/email-permutator)
-
 
 ## Full name
 Webmii (https://webmii.com/)
